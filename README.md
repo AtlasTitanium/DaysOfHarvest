@@ -39,24 +39,24 @@ Humans who have been exposed to energy from the crystal meteorites since they we
 
 ***Energies and Powers***
 **Water - Void / Black matter**
-Parma // Intangibility, Shielding/Protection
-Incitatio // Intangibility, Teleportation
-Muto // Intangibility, Shapeshifting  (To some extent ability mimicking)
+>Parma // Intangibility, Shielding/Protection
+>Incitatio // Intangibility, Teleportation
+>Muto // Intangibility, Shapeshifting  (To some extent ability mimicking)
 
 **Fire - Solar Energies**
-Trem // Summoning
-Flatus // Heat vision/Blasts
-Vicis // Energy Conversion
+>Trem // Summoning
+>Flatus // Heat vision/Blasts
+>Vicis // Energy Conversion
 
 **Earth - Gravity**
-Robur // Personal Gravity
-Virtus // Gravitational Increase + Decrease
-Impetu // Gravitational Singularity generation
+>Robur // Personal Gravity
+>Virtus // Gravitational Increase + Decrease
+>Impetu // Gravitational Singularity generation
 
 **Air - Light**
-Lux // Speed, Control Visible light
-Dolus // Speed, Illusion
-Caecus // Speed, Invisibility
+>Lux // Speed, Control Visible light
+>Dolus // Speed, Illusion
+>Caecus // Speed, Invisibility
 
 
 Infected
