@@ -1,3 +1,5 @@
 # DaysOfHarvest
 
-[Contribution guidelines for this project](Story.md)
+[Game Story](Story.md)
+
+[Game Concept](Concept.md)
