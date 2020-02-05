@@ -1,5 +1,5 @@
 # DaysOfHarvest
-##Stories of Days Past
+## Stories of Days Past
 In the year 2043 several meteorites crashed into earth, a year later the meteorites cracked open and started emitting energies which started to affect people and turning them into what would later be known as ‘Infected’. This event was named ‘The Dusk’.
 
 After the Dusk the remaining unaffected humans retreated into dome cities to keep the infected and the meteorite energy at bay. These Domes are far apart and any travel between them requires wearing a protective energy shield to prevent getting infected. There are those who live outside the domes that protect their camp with makeshift energy shields around their territory.
@@ -8,7 +8,7 @@ There is an organization known as Floweret, who seeks to figure out the mysterie
 
 The exempt are a well kept secret and the dome cities have no hard evidence they exist, only high ranking politicians who fund Floweret know of them. The ones that manage to escape the facilities isolate themselves and live far away from both dome cities and the facility they come from. There is a small camp where exempt try to live their live in relative peace.
 
-###Timeline
+### Timeline
 
 *2043 - Meteorites fell from the sky*
 
